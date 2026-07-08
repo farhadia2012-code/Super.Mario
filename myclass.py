@@ -1,2 +1,3 @@
 class dev:
-    pass
+    def_init_(self):
+        pass
